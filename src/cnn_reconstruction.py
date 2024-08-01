@@ -515,23 +515,6 @@ Learning rate function `TrainingArgs.lr_func` should take 4 parameters:
             self._notify_user()
 
 
-# args = TrainingArgs(
-#     data_dir="/home/bread/Documents/MuonNeutrinoReconstruction/src/data/archive/flercnn_IC19cut",
-#     output_dir="/home/bread/Documents/MuonNeutrinoReconstruction/src/data/review/2024_07_17/5",
-#     title="Inelasticity Testing",
-#     epochs=100,
-#     save=True,
-#     train_variable="inelasticity",
-#     batch_size=128,
-#     activation="linear",
-#     verbose=1,
-#     multi_file=True,
-#     notify=False,
-#     continue_train=True,
-#     load_model_path="/home/bread/Documents/MuonNeutrinoReconstruction/src/data/review/2024_07_17/5/keras.keras",
-#     start_epoch=100,
-# )
-
 args = TrainingArgs(
     data_dir="/home/bread/Documents/MuonNeutrinoReconstruction/src/data/archive/flercnn_IC19cut",
     output_dir="/home/bread/Documents/MuonNeutrinoReconstruction/src/data/review",
