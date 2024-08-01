@@ -1,0 +1,4 @@
+/.venv
+*.pickle
+*.v2
+*.out
