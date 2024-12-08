@@ -42,7 +42,7 @@ The project also includes several utility modules and files, such as:
 
 ## Acknowledgements
 
-This project was developed as part of a research effort in particle physics. The input data and some of the utility functions were provided by the research team.
+This project was developed as part of a research effort in collaboration with the IceCube Neutrino Observatory. The input data and some of the utility functions were provided Dr. Shiqi Yu, IceCube, and other collaborators.
 
 ## License
 
