@@ -1,3 +1,6 @@
+
+![Poster-1](https://github.com/user-attachments/assets/eed93645-da34-4a2c-9f6b-36f80bf0585d)
+
 # Low Energy Muon Neutrino Reconstruction - Convolutional Neural Network
 Inspiration and model architecture comes from https://github.com/shiqiyugit/CNN_angular_reco
 
